@@ -1,7 +1,7 @@
 {
-	"name": "KayserBot",
+	"name": "Billy",
 	"version": "11.9.7",
-	"description": "A simple Facebook Messenger Bot made by Kayser",
+	"description": "A simple Facebook Messenger Bot made by Billy",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
@@ -21,9 +21,9 @@
 		"catalizcs",
 		"spermlord",
 		"miraipr0ject",
-                "kayser"
+                "billy"
 	],
-	"author": "Kayser",
+	"author": "Billy",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/KayserBot/Kayserbot/issues"
